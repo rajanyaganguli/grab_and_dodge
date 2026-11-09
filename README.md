@@ -9,7 +9,7 @@ Players control a bucket using hand gestures detected through their webcam or sw
 
 ## 🌐 Live Demo
 
-**Play the Game:** [GRAB & DODGE – Live Demo](PASTE_YOUR_DEPLOYED_VERCEL_LINK_HERE)
+**Play the Game:** [GRAB & DODGE – Live Demo](https://grabanddodge.vercel.app/)
 
 ---
 
@@ -171,7 +171,6 @@ Potential enhancements for future versions:
 
 ---
 
-Deployed using Vercel.
 
 ## 👩‍💻 Author
 
