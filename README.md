@@ -171,6 +171,8 @@ Potential enhancements for future versions:
 
 ---
 
+Deployed using Vercel.
+
 ## 👩‍💻 Author
 
 **Rajanya Ganguli**
